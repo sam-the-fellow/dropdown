@@ -27,7 +27,7 @@ STUDENTS = [
   "Whelan Zhivago",
   "Jina Beringer",
   "Alysia Greenlee",
-  "Aprotim Sanyal",
+  "Steven Strange",
   "Kum Baggett",
   "Halina Bosco",
   "Angelita Voris",
