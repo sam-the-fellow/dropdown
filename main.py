@@ -32,7 +32,7 @@ STUDENTS = [
   "Halina Bosco",
   "Angelita Voris",
   "Tiera Stalls",
-  "Rickey Philipps",
+  "Zac Efron",
   "Leontine Vandiver",
   "Devin Leahy",
   "Leisa Bumpus",
