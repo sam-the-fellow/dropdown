@@ -24,7 +24,7 @@ STUDENTS = [
   "Chase Montalvo",
   "Caroll Wellman",
   "Lacey Blake",
-  "Jamie Negrin",
+  "Whelan Zhivago",
   "Jina Beringer",
   "Alysia Greenlee",
   "Cheryll Shahid",
