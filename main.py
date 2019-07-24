@@ -27,7 +27,7 @@ STUDENTS = [
   "Whelan Zhivago",
   "Jina Beringer",
   "Alysia Greenlee",
-  "Cheryll Shahid",
+  "Aprotim Sanyal",
   "Kum Baggett",
   "Halina Bosco",
   "Angelita Voris",
